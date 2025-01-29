@@ -1,0 +1,17 @@
+D:\Projects\СSharp\Z22\Z22\bin\Debug\net7.0-windows\Z22.exe
+D:\Projects\СSharp\Z22\Z22\bin\Debug\net7.0-windows\Z22.deps.json
+D:\Projects\СSharp\Z22\Z22\bin\Debug\net7.0-windows\Z22.runtimeconfig.json
+D:\Projects\СSharp\Z22\Z22\bin\Debug\net7.0-windows\Z22.dll
+D:\Projects\СSharp\Z22\Z22\bin\Debug\net7.0-windows\Z22.pdb
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z22.csproj.AssemblyReference.cache
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z22.MainForm.resources
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z22.csproj.GenerateResource.cache
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z22.AssemblyInfoInputs.cache
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z22.AssemblyInfo.cs
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z22.csproj.CoreCompileInputs.cache
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z22.dll
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\refint\Z22.dll
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z22.pdb
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z22.genruntimeconfig.cache
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\ref\Z22.dll

@@ -1,0 +1,15 @@
+D:\Projects\СSharp\Z2Srv\Z2Srv\bin\Debug\net7.0\Z2Srv.exe
+D:\Projects\СSharp\Z2Srv\Z2Srv\bin\Debug\net7.0\Z2Srv.deps.json
+D:\Projects\СSharp\Z2Srv\Z2Srv\bin\Debug\net7.0\Z2Srv.runtimeconfig.json
+D:\Projects\СSharp\Z2Srv\Z2Srv\bin\Debug\net7.0\Z2Srv.dll
+D:\Projects\СSharp\Z2Srv\Z2Srv\bin\Debug\net7.0\Z2Srv.pdb
+D:\Projects\СSharp\Z2Srv\Z2Srv\obj\Debug\net7.0\Z2Srv.csproj.AssemblyReference.cache
+D:\Projects\СSharp\Z2Srv\Z2Srv\obj\Debug\net7.0\Z2Srv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\СSharp\Z2Srv\Z2Srv\obj\Debug\net7.0\Z2Srv.AssemblyInfoInputs.cache
+D:\Projects\СSharp\Z2Srv\Z2Srv\obj\Debug\net7.0\Z2Srv.AssemblyInfo.cs
+D:\Projects\СSharp\Z2Srv\Z2Srv\obj\Debug\net7.0\Z2Srv.csproj.CoreCompileInputs.cache
+D:\Projects\СSharp\Z2Srv\Z2Srv\obj\Debug\net7.0\Z2Srv.dll
+D:\Projects\СSharp\Z2Srv\Z2Srv\obj\Debug\net7.0\refint\Z2Srv.dll
+D:\Projects\СSharp\Z2Srv\Z2Srv\obj\Debug\net7.0\Z2Srv.pdb
+D:\Projects\СSharp\Z2Srv\Z2Srv\obj\Debug\net7.0\Z2Srv.genruntimeconfig.cache
+D:\Projects\СSharp\Z2Srv\Z2Srv\obj\Debug\net7.0\ref\Z2Srv.dll

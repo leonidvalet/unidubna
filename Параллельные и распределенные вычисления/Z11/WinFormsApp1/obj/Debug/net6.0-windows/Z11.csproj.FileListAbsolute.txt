@@ -1,0 +1,51 @@
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Z11.exe
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Z11.deps.json
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Z11.runtimeconfig.json
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Z11.dll
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Z11.pdb
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Z11.csproj.AssemblyReference.cache
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Z11.MainForm.resources
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Z11.csproj.GenerateResource.cache
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Z11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Z11.AssemblyInfoInputs.cache
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Z11.AssemblyInfo.cs
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Z11.csproj.CoreCompileInputs.cache
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Z11.dll
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\Z11.dll
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Z11.pdb
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Z11.genruntimeconfig.cache
+D:\Projects\СSharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\Z11.dll
+D:\Projects\СSharp\Z11\WinFormsApp1\bin\Debug\net6.0-windows\Z11.exe
+D:\Projects\СSharp\Z11\WinFormsApp1\bin\Debug\net6.0-windows\Z11.deps.json
+D:\Projects\СSharp\Z11\WinFormsApp1\bin\Debug\net6.0-windows\Z11.runtimeconfig.json
+D:\Projects\СSharp\Z11\WinFormsApp1\bin\Debug\net6.0-windows\Z11.dll
+D:\Projects\СSharp\Z11\WinFormsApp1\bin\Debug\net6.0-windows\Z11.pdb
+D:\Projects\СSharp\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.csproj.AssemblyReference.cache
+D:\Projects\СSharp\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.MainForm.resources
+D:\Projects\СSharp\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.csproj.GenerateResource.cache
+D:\Projects\СSharp\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\СSharp\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.AssemblyInfoInputs.cache
+D:\Projects\СSharp\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.AssemblyInfo.cs
+D:\Projects\СSharp\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.csproj.CoreCompileInputs.cache
+D:\Projects\СSharp\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.dll
+D:\Projects\СSharp\Z11\WinFormsApp1\obj\Debug\net6.0-windows\refint\Z11.dll
+D:\Projects\СSharp\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.pdb
+D:\Projects\СSharp\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.genruntimeconfig.cache
+D:\Projects\СSharp\Z11\WinFormsApp1\obj\Debug\net6.0-windows\ref\Z11.dll
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\bin\Debug\net6.0-windows\Z11.exe
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\bin\Debug\net6.0-windows\Z11.deps.json
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\bin\Debug\net6.0-windows\Z11.runtimeconfig.json
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\bin\Debug\net6.0-windows\Z11.dll
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\bin\Debug\net6.0-windows\Z11.pdb
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.csproj.AssemblyReference.cache
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.MainForm.resources
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.csproj.GenerateResource.cache
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.AssemblyInfoInputs.cache
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.AssemblyInfo.cs
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.csproj.CoreCompileInputs.cache
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.dll
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\obj\Debug\net6.0-windows\refint\Z11.dll
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.pdb
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\obj\Debug\net6.0-windows\Z11.genruntimeconfig.cache
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z11\WinFormsApp1\obj\Debug\net6.0-windows\ref\Z11.dll

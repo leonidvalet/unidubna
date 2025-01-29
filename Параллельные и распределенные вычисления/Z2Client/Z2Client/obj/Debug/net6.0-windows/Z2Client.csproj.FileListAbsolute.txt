@@ -1,0 +1,17 @@
+D:\Projects\СSharp\Z2Client\Z2Client\bin\Debug\net6.0-windows\Z2Client.exe
+D:\Projects\СSharp\Z2Client\Z2Client\bin\Debug\net6.0-windows\Z2Client.deps.json
+D:\Projects\СSharp\Z2Client\Z2Client\bin\Debug\net6.0-windows\Z2Client.runtimeconfig.json
+D:\Projects\СSharp\Z2Client\Z2Client\bin\Debug\net6.0-windows\Z2Client.dll
+D:\Projects\СSharp\Z2Client\Z2Client\bin\Debug\net6.0-windows\Z2Client.pdb
+D:\Projects\СSharp\Z2Client\Z2Client\obj\Debug\net6.0-windows\Z2Client.csproj.AssemblyReference.cache
+D:\Projects\СSharp\Z2Client\Z2Client\obj\Debug\net6.0-windows\Z2Client.Form1.resources
+D:\Projects\СSharp\Z2Client\Z2Client\obj\Debug\net6.0-windows\Z2Client.csproj.GenerateResource.cache
+D:\Projects\СSharp\Z2Client\Z2Client\obj\Debug\net6.0-windows\Z2Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\СSharp\Z2Client\Z2Client\obj\Debug\net6.0-windows\Z2Client.AssemblyInfoInputs.cache
+D:\Projects\СSharp\Z2Client\Z2Client\obj\Debug\net6.0-windows\Z2Client.AssemblyInfo.cs
+D:\Projects\СSharp\Z2Client\Z2Client\obj\Debug\net6.0-windows\Z2Client.csproj.CoreCompileInputs.cache
+D:\Projects\СSharp\Z2Client\Z2Client\obj\Debug\net6.0-windows\Z2Client.dll
+D:\Projects\СSharp\Z2Client\Z2Client\obj\Debug\net6.0-windows\refint\Z2Client.dll
+D:\Projects\СSharp\Z2Client\Z2Client\obj\Debug\net6.0-windows\Z2Client.pdb
+D:\Projects\СSharp\Z2Client\Z2Client\obj\Debug\net6.0-windows\Z2Client.genruntimeconfig.cache
+D:\Projects\СSharp\Z2Client\Z2Client\obj\Debug\net6.0-windows\ref\Z2Client.dll

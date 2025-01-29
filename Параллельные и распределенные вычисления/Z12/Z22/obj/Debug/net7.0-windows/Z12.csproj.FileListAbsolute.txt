@@ -1,0 +1,34 @@
+D:\Projects\СSharp\Z22\Z22\bin\Debug\net7.0-windows\Z12.exe
+D:\Projects\СSharp\Z22\Z22\bin\Debug\net7.0-windows\Z12.deps.json
+D:\Projects\СSharp\Z22\Z22\bin\Debug\net7.0-windows\Z12.runtimeconfig.json
+D:\Projects\СSharp\Z22\Z22\bin\Debug\net7.0-windows\Z12.dll
+D:\Projects\СSharp\Z22\Z22\bin\Debug\net7.0-windows\Z12.pdb
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z12.csproj.AssemblyReference.cache
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z12.MainForm.resources
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z12.csproj.GenerateResource.cache
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z12.AssemblyInfoInputs.cache
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z12.AssemblyInfo.cs
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z12.csproj.CoreCompileInputs.cache
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z12.dll
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\refint\Z12.dll
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z12.pdb
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\Z12.genruntimeconfig.cache
+D:\Projects\СSharp\Z22\Z22\obj\Debug\net7.0-windows\ref\Z12.dll
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\bin\Debug\net7.0-windows\Z12.exe
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\bin\Debug\net7.0-windows\Z12.deps.json
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\bin\Debug\net7.0-windows\Z12.runtimeconfig.json
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\bin\Debug\net7.0-windows\Z12.dll
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\bin\Debug\net7.0-windows\Z12.pdb
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\obj\Debug\net7.0-windows\Z12.csproj.AssemblyReference.cache
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\obj\Debug\net7.0-windows\Z12.MainForm.resources
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\obj\Debug\net7.0-windows\Z12.csproj.GenerateResource.cache
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\obj\Debug\net7.0-windows\Z12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\obj\Debug\net7.0-windows\Z12.AssemblyInfoInputs.cache
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\obj\Debug\net7.0-windows\Z12.AssemblyInfo.cs
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\obj\Debug\net7.0-windows\Z12.csproj.CoreCompileInputs.cache
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\obj\Debug\net7.0-windows\Z12.dll
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\obj\Debug\net7.0-windows\refint\Z12.dll
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\obj\Debug\net7.0-windows\Z12.pdb
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\obj\Debug\net7.0-windows\Z12.genruntimeconfig.cache
+D:\Projects\СSharp\Параллельные и распределенные вычисления\Z12\Z22\obj\Debug\net7.0-windows\ref\Z12.dll
