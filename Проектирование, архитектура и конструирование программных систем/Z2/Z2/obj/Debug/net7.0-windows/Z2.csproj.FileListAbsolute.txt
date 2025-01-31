@@ -1,0 +1,17 @@
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\bin\Debug\net7.0-windows\Z2.exe
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\bin\Debug\net7.0-windows\Z2.deps.json
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\bin\Debug\net7.0-windows\Z2.runtimeconfig.json
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\bin\Debug\net7.0-windows\Z2.dll
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\bin\Debug\net7.0-windows\Z2.pdb
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\obj\Debug\net7.0-windows\Z2.csproj.AssemblyReference.cache
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\obj\Debug\net7.0-windows\Z2.MainForm.resources
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\obj\Debug\net7.0-windows\Z2.csproj.GenerateResource.cache
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\obj\Debug\net7.0-windows\Z2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\obj\Debug\net7.0-windows\Z2.AssemblyInfoInputs.cache
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\obj\Debug\net7.0-windows\Z2.AssemblyInfo.cs
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\obj\Debug\net7.0-windows\Z2.csproj.CoreCompileInputs.cache
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\obj\Debug\net7.0-windows\Z2.dll
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\obj\Debug\net7.0-windows\refint\Z2.dll
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\obj\Debug\net7.0-windows\Z2.pdb
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\obj\Debug\net7.0-windows\Z2.genruntimeconfig.cache
+D:\Projects\СSharp\Проектирование, архитектура и конструирование программных систем\Z2\Z2\obj\Debug\net7.0-windows\ref\Z2.dll
